@@ -1,0 +1,29 @@
+
+body
+{
+    font-family: "segoe ui light";
+}
+#profile
+{
+    padding: 50px 0px;
+}
+#profile .feature
+{
+    margin-bottom: 1px;
+    background-color: #2A5769;
+    color: #FABD4A;
+    padding: 20px 5px;
+}
+.feature i
+{
+    background-color: gray;
+    padding: 20px;
+    
+}
+@media (max-width:994px) and (min-width)
+{
+    #profile h2
+    {
+        font-size: 25px;
+    }
+}
